@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Uday
+### Hi there 👋 I'm srini
 
 <!--
 **teja003/teja003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
